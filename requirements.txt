@@ -4,5 +4,7 @@ pandas
 matplotlib
 seaborn
 scipy
+yfinance
 openpyxl
 xlsxwriter
+
